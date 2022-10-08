@@ -4,7 +4,7 @@
  ，这些信息是必要的。
 
 ## 环境信息
-- CentOsS7.9
+- CentOS 7.9
 - Kubernetes v1.23.6
 
 ## A. 手动安装
