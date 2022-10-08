@@ -1,0 +1,10 @@
+{
+  "registry-mirrors": [
+    "https://docker.mirrors.ustc.edu.cn",
+    "http://hub-mirror.c.163.com",
+    "https://registry.docker-cn.com"
+  ],
+  "exec-opts": [
+    "native.cgroupdriver=systemd"
+  ]
+}

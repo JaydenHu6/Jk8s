@@ -1,0 +1,7 @@
+#!/bin/bash
+
+CNI_VERSION="v0.8.2"
+CRICTL_VERSION="v1.22.0"
+ARCH="amd64"
+RELEASE="v1.23.6"
+RELEASE_VERSION="v0.4.0"
